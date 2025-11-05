@@ -1,0 +1,22 @@
+{
+  "name": "playwright-mockproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesome-academy/Playwright-mockProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesome-academy/Playwright-mockProject/issues"
+  },
+  "homepage": "https://github.com/awesome-academy/Playwright-mockProject#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.2"
+  }
+}
